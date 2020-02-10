@@ -18,9 +18,6 @@ public class Ejercicio01_Suma_Media_Mayor_Menor {
 
 	 
 		
-		int num = Utils.obtenerNumeroAleatorio();
-
-		
 	}
 
 }
