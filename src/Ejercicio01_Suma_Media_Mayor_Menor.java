@@ -15,7 +15,9 @@ public class Ejercicio01_Suma_Media_Mayor_Menor {
 			System.out.println(numeros[i]);
 		}
 		
-		Utils.creaArrayNumerosAzar(10, 0, 20);
+		
+		int num = Utils.obtenerNumeroAzar(0, 10);
+		System.out.println("El número aleatorio es " + num);
 	}
 
 }
